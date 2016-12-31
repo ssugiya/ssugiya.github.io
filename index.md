@@ -17,7 +17,7 @@ Spreadsheetniumは、難しいJavaのIDE設定や単体試験frameworkを使う�
 
 #### ReadMe page
 
-[Spreadsheetnium](../Spreadsheetnium/docs/README.md)
+[Spreadsheetnium](https://ssugiya.github.io/Spreadsheetnium/)
 
 
 ## Profile
