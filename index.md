@@ -9,7 +9,7 @@ You can use Selenium on Excel without any Java-IDE or unit test framework. I mea
 Spreadsheetniumは、難しいJavaのIDE設定や単体試験frameworkを使うことなく、Excel上でSelelniumを動作させることができます。つまり、非WEB開発者でも少ない教育時間で自動試験が可能になるということです。
 
 
-![spreadsheetnium.png](/Spreadsheetnium/docs/img/spreadsheetnium.png "SeleniumBasic")
+![spreadsheetnium.png](/Spreadsheetnium/img/spreadsheetnium.png "SeleniumBasic")
 
 #### Download
 
